@@ -6,7 +6,7 @@ public class java {
 	}
 	
 	public void xixi() {
-		System.out.println("少女的悲伤烫伤了你的背，直击你的心脏");
+		System.out.println("llalfklflakflkalkl");
 		
 	}
 }
